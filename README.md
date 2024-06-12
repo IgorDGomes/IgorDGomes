@@ -28,9 +28,7 @@ Hey I'm Igor, a frontend developer, determined to become a fullstack developer.
 
 ## ⚠️ Projects ongoing:
 
-- Oasis Legacy Bank
+- <a href="https://github.com/IgorDGomes/Oasis-Legacy-Bank">Oasis Legacy Bank</a>
 
 <!--     <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=igordgomes&theme=dark&hide_border=false" /> -->
 <!--     <img src="https://github-profile-trophy.vercel.app/?username=igordgomes&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=-?" /> -->
-
-<!-- Created with GPRM help -->
