@@ -1,6 +1,7 @@
-# Hi, I'm Igor Gomes!
+# Hi, I'm Igor Gomes
 
-Hey I'm Igor, a frontend developer, determined to become a fullstack developer.
+- I'm a Front-end developer.
+- Focusing on learning more about Back-end development.
 
 ## 🛠️ Tech Stack:
 
@@ -14,21 +15,60 @@ Hey I'm Igor, a frontend developer, determined to become a fullstack developer.
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <!-- ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) -->
 <!-- ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) -->
-<!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
-<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
+
+## Latest Projects:
+
+### APO-OS
+
+[Repository](https://github.com/IgorDGomes/APO-OS)
+
+<details>
+    <summary>Summary</summary>
+    <ol>
+    ⚠️ Coming soon ⚠️
+    </ol>
+</details>
+
+### Random Character Generator
+
+[Repository](https://github.com/IgorDGomes/random-Character)
+
+<details>
+    <summary>Summary</summary>
+    <ol>
+        <li>Generate random characters</li>
+        <li>Frontend built with HTML, CSS, Javascript and GSAP</li>
+        <li>Backend built with Node.js, Express and Typescript</li>
+    </ol>
+</details>
+
+### Study Bots
+
+[Repository](https://github.com/IgorDGomes/Study-Bots-Website)
+<details>
+    <summary>Summary</summary>
+    <ol>
+        <li>Display discord bots</li>
+        <li>Built with Next.js, TailwindCSS and Typescript</li>
+    </ol>
+</details>
 
 ## 🏆 GitHub Stats:
 
 <div align="center">
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=IgorDGomes&hide=contribs&hide_border=true&show_icons=true&theme=dark&icon_color=1722aa&border_radius=16&ring_color=00fff0" />
     <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorDGomes&hide_border=true&theme=dark&border_radius=24" />
+    <details>
+        <summary>More Stats</summary>
+        <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=igordgomes&theme=dark&hide_border=false" />
+        <img width="150%" src="https://github-profile-trophy.vercel.app/?username=igordgomes&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=-?" />
+    </details>
 </div>
 
-## ⚠️ Projects ongoing:
+## More 
 
-- <a href="https://github.com/IgorDGomes/Oasis-Legacy-Bank">Oasis Legacy Bank</a>
-
-<!--     <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=igordgomes&theme=dark&hide_border=false" /> -->
-<!--     <img src="https://github-profile-trophy.vercel.app/?username=igordgomes&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=-?" /> -->
+[![roadmap.sh](https://roadmap.sh/card/wide/677065aa70129741a8d2c1de?variant=dark)](https://roadmap.sh)
