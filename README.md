@@ -30,6 +30,10 @@
     <summary>Summary</summary>
     <ol>
     ⚠️ Coming soon ⚠️
+        <li>Fake Operating System</li>
+        <li>Built with Next.js, TailwindCSS and Typescript</li>
+        <li>Tested using Playwright(Safari tests excluded due to issue with cookies)</li>
+    ⚠️ Coming soon ⚠️
     </ol>
 </details>
 
