@@ -66,11 +66,6 @@
 <div align="center">
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=IgorDGomes&hide=contribs&hide_border=true&show_icons=true&theme=dark&icon_color=1722aa&border_radius=16&ring_color=00fff0" />
     <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorDGomes&hide_border=true&theme=dark&border_radius=24" />
-    <details>
-        <summary>More Stats</summary>
-        <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=igordgomes&theme=dark&hide_border=false" />
-        <img width="150%" src="https://github-profile-trophy.vercel.app/?username=igordgomes&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=-?" />
-    </details>
 </div>
 
 ## More 
