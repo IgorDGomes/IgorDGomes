@@ -16,5 +16,5 @@ I build responsive, web applications. My main focus is fullstack, but I am activ
 
 ## `$ ping`
 
-- 🌐 [Portfolio](https://igordgomes.vercel.app)
+- 🌐 [Portfolio](https://igordgomes.com)
 - 🤖 [Alternate Account](https://github.com/Somebodyy000)
